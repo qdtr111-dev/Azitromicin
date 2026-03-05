@@ -84,5 +84,4 @@ resetButton.onclick = () => {
     timer = null;
     totalSeconds = 0;
     secondsDisplay.innerHTML = '00:00:00';
-};
-
+}; 
